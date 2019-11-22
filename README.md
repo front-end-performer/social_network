@@ -6,9 +6,6 @@ Coriander - Social Network school project. Was made for learning purpose only.
 HTML / JSX, CSS, JavaScript, Node.js with Express.js, React, Redux, React Hooks, AWS3, axios, multer, Oauth, Socket.io, Postgres SQL, csurf, Cookie session package, Jest.
 
 ## Visuals
-
-*
-<img src="https://j.gifs.com/JyXLql.gif" />
 *
 <img src="https://j.gifs.com/JyXLql.gif" />
 
