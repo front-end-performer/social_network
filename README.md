@@ -9,7 +9,7 @@ HTML / JSX, CSS, JavaScript, Node.js with Express.js, React, Redux, React Hooks,
 *
 <img src="https://j.gifs.com/JyXLql.gif" />
 *
-<img src="https://j.gifs.com/JyXLql.gif" />
+<img src="https://j.gifs.com/K1EPy8.gif" />
 
 ## Usage
 
