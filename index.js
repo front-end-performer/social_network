@@ -83,7 +83,6 @@ app.post('/register', (req, res) => {
             db.insertUsers(first, last, email, password).then(result => {
                 let id = result.rows[0].id;
                 req.session.userId = id;
-
                 res.redirect('/');
             }).catch(error => console.log(error));
         }).catch(error => console.log(error.message));
